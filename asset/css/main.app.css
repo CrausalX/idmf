@@ -1,4 +1,4 @@
-@font-face {
+.@font-face {
   font-family: 'manrope';
   src: url('asset/font/Manrope/Manrope-VariableFont_wght.ttf') format('truetype');
 }
@@ -227,6 +227,10 @@ a:hover {
   font-size: 14px;
   line-height: 148%;
   letter-spacing: 0.02em;
+  color: #FCFCFC;
+}
+
+.footer a {
   color: #FCFCFC;
 }
 
